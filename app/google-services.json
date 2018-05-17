@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "216142780566",
+    "firebase_url": "https://expenseyourtrac.firebaseio.com",
+    "project_id": "expenseyourtrac",
+    "storage_bucket": "expenseyourtrac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216142780566:android:ee4f9c4cf60bb788",
+        "android_client_info": {
+          "package_name": "yazdaniscodelab.expenseyourtrackdemoapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216142780566-ia32mlj7s74bta1ogokfge88l63s4p6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yazdaniscodelab.expenseyourtrackdemoapps",
+            "certificate_hash": "8bbad294121d3334a8308fc20bd2791ea06aa9c3"
+          }
+        },
+        {
+          "client_id": "216142780566-ng4ogtet9o87tvae1d05l2ga57e1aq8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDGtcA6nX1BKlnR-y7xkMBg1qDkeRqaLk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216142780566-ng4ogtet9o87tvae1d05l2ga57e1aq8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
